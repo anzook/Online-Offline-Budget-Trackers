@@ -1,11 +1,11 @@
-<!-- //////////////////////////// -->
 # Online-Offline-Budget-Trackers
 ### A PWA that allows budget tracking on the go
+* View the deployed application on Heroku ( https://anz-budget-tracker.herokuapp.com/ )
 
 This practice application allows a user add expenses and deposits to their budget with or without a connection. The basic functionality was provided, and the assignment was to convert it to a progressive web app.
 
 ## Viewing and using the website
-<!-- Follow the link to the deployed application above, or  -->
+Follow the link to the deployed application above, or
 
 - Clone and Download the repo
 - Install the node dependencies:
